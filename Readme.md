@@ -1,4 +1,4 @@
-### Docker image to run Yandex browser to check domain ban. Purpose  
+### Docker image to run Yandex browser to check domain ban.   
 The goal is to identify erroneous website blocks by the browser.
 
 #### Command to run
